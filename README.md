@@ -2,7 +2,7 @@
 GOODPASSWORD is a simple password generator that creates a new password based on user's input and then checks if it fulfills certain requirements, such as containing digits, lowercase and uppercase letters, and special characters. If the generated password meets the requirements, it is displayed to the user and can be copied to the clipboard.
 
 ## Author
-Filip Rokita </br>
+Filip Rokita <br>
 www.filiprokita.com
 
 ## Technologies
