@@ -19,3 +19,6 @@ www.filiprokita.com
 2. Click the "GENERATE" button.
 3. If the generated password meets the requirements, it will be displayed in a new window.
 4. Click the "Copy to clipboard" button to copy the password to the clipboard.
+
+## Disclaimer
+I assume no liability and I am not responsible for any misuse or damage caused by my software. You are using my software at your own risk!
